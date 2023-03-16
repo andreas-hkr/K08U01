@@ -3,7 +3,7 @@ public class Main {
         // Skriv en metod som tar ett heltal som parameter och returnerar
         //   -1  om parametern är negativt
         //    0  om parametern är 0
-        //    1  om parametern är 1
+        //    1  om parametern är större än 0
 
 
     }
